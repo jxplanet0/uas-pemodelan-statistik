@@ -1,0 +1,2 @@
+# uas-pemodelan-statistik
+ yes
